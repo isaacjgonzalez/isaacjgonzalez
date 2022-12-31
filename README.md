@@ -1,4 +1,4 @@
-👋 Hi, I’m isaacgonzalez.eu
+👋 Hi, Isaac González
 
 ⛓️ Blockchain researcher and consultant.
 
@@ -11,3 +11,5 @@ DeFi and Start-Ups: Revolution in Finance](https://link.springer.com/chapter/10.
 - 📕 Newsletter: [Consenso (Spanish) ](https://consenso.substack.com/)
 
 📫 Mail me: isaacgonzalez at isaacgonzalez dot eu
+
+[isaacgonzalez.eu])(https://isaacgonzalez.eu)
