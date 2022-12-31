@@ -1,7 +1,8 @@
 👋 Hi, I’m isaacgonzalez.eu
 
 ⛓️ Blockchain researcher and consultant.
-🌱 I have a mix of IT, entepreneurship and crypto background.
+
+🌱 I have a mix of IT (CS engineer), entepreneurship (MBA) and crypto background (DeFi PhD). 
 
 Check out some of my work:
 - 📘 Analysis: [Bitcoin Mining Industry Report](https://crypto-oxygen.com/wp-content/uploads/2022/12/2022_Crypto-Oxygen_Bitcoin-Mining-Industry-Report.pdf)
