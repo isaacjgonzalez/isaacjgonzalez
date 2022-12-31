@@ -12,4 +12,4 @@ DeFi and Start-Ups: Revolution in Finance](https://link.springer.com/chapter/10.
 
 📫 Mail me: isaacgonzalez at isaacgonzalez dot eu
 
-[isaacgonzalez.eu])(https://isaacgonzalez.eu)
+[isaacgonzalez.eu](https://isaacgonzalez.eu)
