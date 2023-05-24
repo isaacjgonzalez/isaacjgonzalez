@@ -2,7 +2,7 @@
 
 ⛓️ Blockchain researcher and consultant.
 
-✏️ I have a mix of IT (CS engineer), entepreneurship (MBA) and crypto background (DeFi PhD). 
+✏️ I have a mix of IT (CS engineer & dev experience), entepreneurship (MBA & startup CEO) and crypto background (DeFi PhD & crypto consultant). 
 
 🌱 I have worked as a CS enginner for several years, then I create my own company ([cilenis.com](https://cilenis.com)) which developed several NLP tools ([linguakit.com](https://linguakit.com)). After that, I felt in love with blockchain which I have been studied since 2017 while teaching IT. In 2022 I started as a researcher and consultant at [Crypto Oxygen](https://crypto-oxygen.com).
 
