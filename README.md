@@ -4,7 +4,7 @@
 
 ✏️ I have a mix of IT (CS engineer and dev experience), entrepreneurship (MBA and startup CEO), and crypto background (DeFi PhD and crypto consultant). 
 
-🌱 I have worked as a CS engineer for several years, then I created my own company ([cilenis.com](https://cilenis.com)), which developed several NLP tools ([linguakit.com](https://linguakit.com)). After that, I fell in love with blockchain, which I have been studying since 2017 while teaching IT. In 2022, I started as a researcher and consultant at [Crypto Oxygen](https://crypto-oxygen.com) for six months. Since then, I have been developing projects and offering consultancy at [Folerpa](https://folerpa.com).
+🌱 I have worked as a CS engineer for several years, then I created my own company ([cilenis.com](https://cilenis.com)), which developed several NLP tools ([linguakit.com](https://linguakit.com)). After that, I fell in love with blockchain, which I have been studying since 2017 while teaching IT. In 2022, I started as a researcher and consultant at [Crypto Oxygen](https://crypto-oxygen.com) for six months. Since then, I have been developing projects, consultancy, and education at [Folerpa](https://folerpa.com).
 
 Check out some of my work:
 - 📗 Academia: [Preliminary assessment of DeFi performance](https://www.sciencedirect.com/science/article/pii/S0040162522002669), [
